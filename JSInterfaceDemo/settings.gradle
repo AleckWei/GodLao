@@ -1,0 +1,4 @@
+include ':processor'
+include ':pluginInterfaceLib'
+include ':app'
+rootProject.name = "JSInterfaceDemo"
